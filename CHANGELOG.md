@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/kentwongg/terraform_module_versioning/compare/4.0.0...4.0.1) (2021-08-12)
+
+
+### Bug Fixes
+
+* **azureboard-118:** change rg_name to user_defined_string ([3b67edb](https://github.com/kentwongg/terraform_module_versioning/commit/3b67edb1ac4b21de988c93e814569b620288ae28))
+
 # [4.0.0](https://github.com/picardsrcd/tagging_test/compare/3.0.1...4.0.0) (2021-02-10)
 
 
